@@ -1,6 +1,6 @@
 ---
 title: 'On the concept of time'
-date: '2023-31-1'
+date: '2023-01-02'
 ---
 
 In a world were we thought that events had a time variable defining whether it had ocurred in the past or if it was happening simultaneously to someone analyzing that event. The concept of General Relativity struck us hardly because it massively changed our reality. 
